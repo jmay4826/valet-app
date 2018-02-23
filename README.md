@@ -1,4 +1,9 @@
-# Valet App API Documentation
+# Valet App
+This app was a group effort after being initially introduced to React in 3 days. It is designed to streamline the valet garage management at a local parking garage. 
+
+The group learned a lot throughout this project and the code could use several improvements, including separating large, complex components into smaller, reusable ones and avoiding the use of props to set state.
+
+## Valet App API Documentation
 
 ## Endpoints
 
